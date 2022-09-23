@@ -1,2 +1,2 @@
 this is foo.txt file
-
+added one more line
